@@ -6,10 +6,10 @@ This repository contains my work from the **Introduction to Applied Data Science
 
 | # | Module | Notebook |
 |---|--------|----------|
-| 1 | Python Basics | [01_Python_Basics.ipynb](1_Python Basics.ipynb) |
-| 2 | NumPy and Pandas | [02_Numpy_Pandas.ipynb](2_Numpy Pandas.ipynb) |
-| 3 | Data Visualization | [03_Data_Visualization.ipynb](3_Data Visualization.ipynb) |
-| 4 | Machine Learning | [04_Machine_Learning.ipynb](4_Machine Learning.ipynb) |
+| 1 | Python Basics | [01_Python_Basics.ipynb](1_Python_Basics.ipynb) |
+| 2 | NumPy and Pandas | [02_Numpy_Pandas.ipynb](2_Numpy_Pandas.ipynb) |
+| 3 | Data Visualization | [03_Data_Visualization.ipynb](3_Data_Visualization.ipynb) |
+| 4 | Machine Learning | [04_Machine_Learning.ipynb](4_Machine_Learning.ipynb) |
 
 ## Topics Covered
 
